@@ -1,1 +1,1 @@
-web: node -m src
+web:node -m src
